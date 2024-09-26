@@ -26,4 +26,6 @@ const company = {
     {name: 'Hulk',
     salary: 90000,
     subordinates: []}]}]};
+// Data set created.
+// Task 1 is now complete.
     
