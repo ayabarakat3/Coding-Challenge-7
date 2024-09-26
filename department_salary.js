@@ -6,7 +6,7 @@ const company = {
     {name: 'Andy',
     salary: 1100000,
     subordinates: [
-    {name: 'AYA',
+    {name: 'Aya',
     salary: 1150000,
     subordinates: [
     {name: 'Anthony',
