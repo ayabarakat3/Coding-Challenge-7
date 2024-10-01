@@ -25,7 +25,8 @@ const company = {
     subordinates: []}]},
     {name: 'Hulk',
     salary: 90000,
-    subordinates: []}]}]};
+    subordinates: []
+}]}]};
 // Data set created.
 // Task 1 is now complete.
 
@@ -61,4 +62,6 @@ return totalSalary;}
 // Function returned and complete.
 let totalSalaryForCompany = calculateTotalSalary(company);
 console.log(`The total salary amount for the all departments is: $${totalSalaryForCompany}`);
-// Function intended to display total salary amount for all departments while including a message. 
+/* Function intended to display total salary amount for all departments while including a message. 
+Task 3 is now complete. 
+All tasks have been complete.*/
